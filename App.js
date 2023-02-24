@@ -1,6 +1,6 @@
 import { FlatList, Text, SafeAreaView, View, StyleSheet } from 'react-native';
 import menuItems from './menuItems.json';
-import React, { useState, useEffect } from 'react';
+
 
 export default App = () => {
 
